@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aishwarya
-- 👀 I’m interested in Web and Tech
+- 👀 I’m interested in Web Tech
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on MERN Stack
 
